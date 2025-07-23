@@ -9,6 +9,9 @@
       color: white;
       background-color: #f9f7f1;
     }
+      body.loaded {
+        opacity: 1; 
+    }
 
     header {
       text-align: center;
